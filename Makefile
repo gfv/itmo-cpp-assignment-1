@@ -1,4 +1,4 @@
-CXX = clang
+CXX = g++
 CXXFLAGS = -g --std=c++0x
 OBJS = list.o
 BINS = list
